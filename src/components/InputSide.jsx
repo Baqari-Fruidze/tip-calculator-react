@@ -19,12 +19,12 @@ export default function InputSide() {
             return <Button key={index}>{item}</Button>;
           })}
 
-          <Input btnType="custom" type="text" placeholder="custom" />
+          <Input btntype="custom" type="text" placeholder="custom" />
         </ButtonsContainer>
       </InputContainer>
 
       <InputContainer>
-        <Label>Number off People</Label>
+        <Label>Number of People</Label>
         <Input type="text" placeholder="0" />
       </InputContainer>
     </StyledForm>
