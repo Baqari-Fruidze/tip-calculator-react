@@ -23,11 +23,10 @@ const Application = styled.div`
   gap: 4.8rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  padding: 3.2rem;
+  padding: 4.8rem;
   border-radius: 2.5rem;
   margin-top: 8.7rem;
   background: #fff;
-  height: 48rem;
   max-width: 92rem;
 `;
 export default App;
