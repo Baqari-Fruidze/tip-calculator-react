@@ -17,5 +17,12 @@ input {
     font-family: "Space Mono", monospace;
     font-weight: 700;
 }
+body{
+    background: #C5E4E7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
 
 `;
